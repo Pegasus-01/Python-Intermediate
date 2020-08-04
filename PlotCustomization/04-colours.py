@@ -1,3 +1,6 @@
+#importing numpy
+import numpy as np
+
 # Specify c and alpha inside plt.scatter()
 plt.scatter(x = gdp_cap, y = life_exp, s = np.array(pop) * 0.8 , c = col , alpha = 0.8)
 
