@@ -1,1 +1,2 @@
 Here I've added some of the intermediate level codes(commands only in some cases) which I'm studying to be a Data Scientist.The datasets are from various sites and those aren't added here and I've written these codes on Datacamp console.
+The **master brach** contains codes from my learning path of data science and the **other branch** contains conceptual codes based on algorithm written on python.
